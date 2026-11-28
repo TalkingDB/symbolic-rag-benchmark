@@ -1,3 +1,6 @@
+> [!NOTE]
+> **TalkingDB fork of [Ragas](https://github.com/vibrantlabsai/ragas).** As of 25 November 2026 every recent commit on `main` here, up to `298b682`, comes from upstream Ragas; TalkingDB has made no changes to the code. For Ragas documentation, releases and issues, use the upstream repository. For how TalkingDB measures retrieval, with exact scoring and no language model as judge, see [talkingdb-benchmarks](https://github.com/TalkingDB/talkingdb-benchmarks).
+
 <h1 align="center">
   <img style="vertical-align:middle" height="200"
   src="https://raw.githubusercontent.com/vibrantlabsai/ragas/main/docs/_static/imgs/logo.png">
